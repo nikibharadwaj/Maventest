@@ -1,1 +1,4 @@
-#
+#!/usr/bin/env bash
+npx dwmkerr/standard-version --first-release --packageFiles pom.xml --bumpFiles pom.xml
+
+git push --follow-tags origin master
