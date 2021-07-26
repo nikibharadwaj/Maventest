@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/nikibharadwaj/Maventest/compare/v1.1.1...v1.1.2) (2021-07-26)
+
+
+### Bug Fixes
+
+* apptest modified ([2a95f77](https://github.com/nikibharadwaj/Maventest/commit/2a95f7746bdd754c41a75e6abbc7dbb549265af4))
+
 ### [1.1.1](https://github.com/nikibharadwaj/Maventest/compare/v1.1.0...v1.1.1) (2021-07-26)
 
 ## [1.1.0](https://github.com/nikibharadwaj/Maventest/compare/v1.0.0...v1.1.0) (2021-07-26)
